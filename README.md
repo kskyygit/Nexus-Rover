@@ -37,7 +37,7 @@ Display: Game must be running in Windowed Mode.
 
 Installation & Usage
 
-Clone the repository or download the bot.py file.
+Clone the repository or download the start.py file.
 Install the required libraries:
 pip install opencv-python numpy mss pygetwindow pydirectinput
 
